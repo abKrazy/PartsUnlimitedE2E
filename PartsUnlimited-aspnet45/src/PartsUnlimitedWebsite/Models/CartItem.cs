@@ -6,6 +6,7 @@ namespace PartsUnlimited.Models
     public class CartItem : ILineItem
     {
         //arbaner - test 1st change
+        //arbaner - test 2nd change
         [Key]
         public int CartItemId { get; set; }
 
